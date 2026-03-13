@@ -6,7 +6,7 @@ self.__BUILD_MANIFEST = {
     "static/chunks/4a81e924166bc8ca.js"
   ],
   "/[locale]/presale": [
-    "static/chunks/5652425857475bea.js"
+    "static/chunks/c8a554b6bd9cd3ac.js"
   ],
   "/[locale]/start": [
     "static/chunks/306fe27b447c2cfc.js"
